@@ -23,6 +23,7 @@
 
 ![Снимок экрана (340)](https://user-images.githubusercontent.com/70980145/168182487-6b4b3240-11e8-4b94-9d59-fde696aede14.png)
 
+Через терминал в Sublime Text
 ![Снимок экрана (345)](https://user-images.githubusercontent.com/70980145/168182525-5760b3a3-3b20-4420-8c25-af213fa02978.png)
 
 ![Y4KrhfgC_nKQ_gPvGeVMgZEUJDhU_n1tn9lJpjZMEkLXm16JZ4ffBUlLpxLEF8tt6TvhM09OjTHX_qQPOoOZWOml](https://user-images.githubusercontent.com/70980145/168182594-e6e7f1ba-f99e-4c69-b190-9df0142634d3.jpg)
